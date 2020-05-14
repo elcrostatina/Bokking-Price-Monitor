@@ -1,6 +1,6 @@
-# booking_price_monitor
+#### my old project
+# booking price monitor
 monitoring the price of the hotel you are interested in
-
 
 
 ## Why...?
